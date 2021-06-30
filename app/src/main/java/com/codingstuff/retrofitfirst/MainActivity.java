@@ -39,14 +39,14 @@ public class MainActivity extends AppCompatActivity {
 
         jsonPlaceholder = retrofit.create(JSONPlaceholder.class);
 
-        //getPost();
+        getPost();
         //getComments();
 
-       // createPost();
+       //createPost();
 
-      //  updatePost();
+     // updatePost();
 
-        deletePost();
+       // deletePost();
 
     }
 
